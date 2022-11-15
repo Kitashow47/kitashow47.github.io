@@ -1,6 +1,7 @@
 /* container */
 .wrapper{
     width:100%;
+    background-color:black;
 }
 
 .wrapper .container{
@@ -10,7 +11,7 @@
 }
 
 /* content */
-.wrapper .content {
+.wrapper .content{
     padding:50px;
     text-align:center;
 }
